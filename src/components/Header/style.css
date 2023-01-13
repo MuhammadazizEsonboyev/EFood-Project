@@ -1,0 +1,54 @@
+.person_image {
+    width: 100%;
+}
+
+.food_text {
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 66px;
+    text-transform: capitalize;
+    color: #363853;
+    padding-top: 180px;
+}
+
+.food_text span {
+    color: #FF7A50;
+}
+
+.person_image {
+    padding-top: 80px;
+}
+
+.text_info {
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 30px;
+    text-transform: capitalize;
+    color: #363853;
+    padding-top: 15px;
+    padding-bottom: 40px;
+}
+
+.explore_btn {
+    background: #FF7A50;
+    box-shadow: 0px 22px 40px rgba(255, 104, 56, 0.19);
+    border-radius: 5px;
+    padding: 12px 21px;
+    border: none;
+    color: #fff;
+    font-size: 20px;
+}
+
+.dowland_link {
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    text-align: center;
+    color: #363853;
+    padding-left: 30px;
+}
