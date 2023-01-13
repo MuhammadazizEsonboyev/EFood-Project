@@ -13,7 +13,7 @@ export default function Navbar() {
       <div className="container">
         <div className="row mt-5">
           <div className="col-3" >
-            <img src={icon} alt="" />
+            {/* <img src={icon} alt="" /> */}Bobur malades
           </div>
           <div className="col-9">
             <ul className="list">
